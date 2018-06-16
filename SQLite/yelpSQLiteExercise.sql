@@ -129,7 +129,7 @@ Note: Primary Keys are denoted in the ER-Diagram with a yellow key icon.
 	| Henderson       |             10871 |
 	| Tempe           |             10504 |
 	| Pittsburgh      |              9798 |
-	| MontrÈal        |              9448 |
+	| Montr√©al        |              9448 |
 	| Chandler        |              8112 |
 	| Mesa            |              6875 |
 	| Gilbert         |              6380 |
@@ -161,7 +161,7 @@ SQL code used to arrive at answer:
 	WHERE city = 'Avon'
 	GROUP BY stars
 
-Copy and Paste the Resulting Table Below (2 columns ñ star rating and count):
+Copy and Paste the Resulting Table Below (2 columns ‚Äì star rating and count):
 +-------------+-------+
 | Star Rating | Count |
 +-------------+-------+
@@ -292,7 +292,7 @@ Copy and Paste the Resulting Table Below (2 columns - star rating and count):
 		+-----------+------+
 	
 	
-11. Is there a strong relationship (or correlation) between having a high number of fans and being listed as "useful" or "funny?" Out of the top 10 users with the highest number of fans, what percent are also listed as ìusefulî or ìfunnyî?
+11. Is there a strong relationship (or correlation) between having a high number of fans and being listed as "useful" or "funny?" Out of the top 10 users with the highest number of fans, what percent are also listed as ‚Äúuseful‚Äù or ‚Äúfunny‚Äù?
 
 Key:
 0% - 25% - Low relationship
